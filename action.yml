@@ -1,0 +1,5 @@
+name: 'SwiftFormat'
+description: 'https://github.com/nicklockwood/SwiftFormat'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
